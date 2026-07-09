@@ -1,0 +1,6 @@
+pillow
+requests
+keyboard
+mouse
+pynput
+pywin32
